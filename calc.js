@@ -108,6 +108,5 @@ equals.addEventListener('click', function() {
         equation = [];
         displayMain();
         displayLower();
-        storedInput = '';
     }
 });
